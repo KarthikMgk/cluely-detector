@@ -1,0 +1,7 @@
+{
+  "name": "com.watchdog",
+  "description": "Overlay detector helper",
+  "type": "stdio",
+  "path": "/$HOME/watchdog/watchdog",
+  "allowed_origins": ["chrome-extension://gabgdckebaaiajeknchmhmdjjjinamob/"]
+}
